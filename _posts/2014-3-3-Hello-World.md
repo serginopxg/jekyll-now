@@ -1,10 +1,7 @@
----
-layout: post
-title: You're up and running!
----
+Shotokan (松濤館 Shōtōkan?, lit. "Escuela de Shōtō") es el primer estilo de karate-Do japonés. Fue elaborado en su filosofía a partir del confucionismo y del código bushido o normas de los guerreros samurai, por el maestro Gichin Funakoshi. Y desarrollado en su técnica y táctica por su hijo Yoshitaka (Gigō) Funakoshi. A partir de los estilos clásicos de lucha provenientes de la isla de Okinawa, como el Shuri-Te (hoy día Shorin Ryu) y el Shorei Ryu o Naha-Te (hoy día Goju ryu ). A mediados del siglo XX el estilo fue asimismo influenciado en su metodología, uniforme y grados , y en varias de sus técnicas por las artes marciales japonesas tradicionales del Kendo (esgrima), y el Judo (lucha cuerpo a cuerpo) practicadas por sus primeros promotores a nivel mundial como el maestro Masatoshi Nakayama.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+"el Tigre nunca duerme" como símbolo del estilo Shotokan, llamado "tora no maki" creado por el artista Hogan Kusugi alumno de G. Funakoshi
+El Shotokan es el primer estilo de kárate - Do japonés. Además de ser considerado como una de las primeras escuelas de karate más conocidas a nivel internacional; el Shotokan permanece hoy día como el estilo de Karate-Dō más practicado del mundo, y el tercero en Japón. Recibe su nombre del seudónimo poético de su fundador el maestro Gichin Funakoshi y del primer dōjō inaugurado por el maestro Funakoshi en 1936. Aunque no fue reconocido oficialmente hasta 1939.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+En términos generales, el karate-Do estilo Shotokan se caracteriza por: golpes rectilíneos penetrantes, y bloqueos /chequeos angulares, en mantener posiciones bajas durante gran parte de su ejecución, y por movimientos preparatorios largos (más no lentos) en sus acciones, destinados a potenciar los ataques y las defensas.1​ Asimismo, se enfatizan los movimientos de cadera y la larga distancia, incluyendo las patadas altas; a diferencia de los estilos clásicos del karate de Okinawa, como el Shorin Ryu, el Goju Ryu, y el Uechi Ryu. En los que las posiciones son más altas y cerradas, o bien alternan entre posiciones altas y bajas; donde hay una mayor variedad de patadas bajas, golpes de mano abierta, y en los que el combate se realiza a distancia media o corta.
